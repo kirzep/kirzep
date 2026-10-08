@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title desc">
+  <title id="title">kirzep — DevOps / Automation</title>
+  <desc id="desc">Минималистичный тёмный баннер с именем kirzep и подписью DevOps / Automation.</desc>
+  <rect width="1280" height="240" rx="12" fill="#17191c"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="135" font-size="76" font-weight="600" letter-spacing="-3" fill="#ececea">kirzep<tspan fill="#9daa9b">.</tspan></text>
+    <text x="59" y="181" font-size="18" letter-spacing="1" fill="#93979b">DevOps / Automation</text>
+  </g>
+</svg>

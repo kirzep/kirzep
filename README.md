@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="kirzep — DevOps: CI/CD, контейнеры, инфраструктура как код, облако и наблюдаемость">
+<img src="assets/banner.svg" width="100%" alt="kirzep — DevOps / Automation">
 
 Мне интересно всё, что происходит между кодом и работающим приложением:<br>
 **сборки, автоматизация, инфраструктура и понятные релизы.**
