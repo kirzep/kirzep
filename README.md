@@ -2,15 +2,24 @@
 
 <img src="assets/banner.svg" width="100%" alt="kirzep — DevOps / Automation">
 
+<br>
+<sub>Целевой DevOps-стек</sub>
+
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Linux-Dark.svg" width="36" height="36" alt="Linux" title="Linux"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bash-Dark.svg" width="36" height="36" alt="Bash" title="Bash"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" width="36" height="36" alt="Git" title="Git"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" width="36" height="36" alt="Python" title="Python"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Nginx.svg" width="36" height="36" alt="Nginx" title="Nginx"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PostgreSQL-Dark.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg" width="36" height="36" alt="GitHub Actions" title="GitHub Actions"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg" width="36" height="36" alt="GitLab CI" title="GitLab CI"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jenkins-Dark.svg" width="36" height="36" alt="Jenkins" title="Jenkins"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" width="36" height="36" alt="Docker" title="Docker"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kubernetes.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/helm/helm-original.svg" width="36" height="36" alt="Helm" title="Helm">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Terraform-Dark.svg" width="36" height="36" alt="Terraform" title="Terraform"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Ansible.svg" width="36" height="36" alt="Ansible" title="Ansible"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AWS-Dark.svg" width="36" height="36" alt="AWS" title="AWS"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/argocd/argocd-original.svg" width="36" height="36" alt="Argo CD" title="Argo CD"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Prometheus.svg" width="36" height="36" alt="Prometheus" title="Prometheus"> &nbsp; <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Grafana-Dark.svg" width="36" height="36" alt="Grafana" title="Grafana">
+</p>
+
 Мне интересно всё, что происходит между кодом и работающим приложением:<br>
 **сборки, автоматизация, инфраструктура и понятные релизы.**
 
 Развиваюсь в DevOps через практику: от CI и выпуска приложения<br>
 к контейнерам, инфраструктуре как коду и наблюдаемости.
-
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20242D?style=flat-square&logo=githubactions&logoColor=94BFFF)](https://github.com/kirzep/RebellioCap/actions)
-[![PowerShell](https://img.shields.io/badge/PowerShell-20242D?style=flat-square&logo=powershell&logoColor=94BFFF)](https://github.com/kirzep/RebellioCap/tree/main/scripts)
-[![Git](https://img.shields.io/badge/Git-20242D?style=flat-square&logo=git&logoColor=F4A58A)](https://github.com/kirzep?tab=repositories)
 
 </div>
 
